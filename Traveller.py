@@ -170,5 +170,5 @@ def mutacion_sustitucion(nuevos_viajantes, ciudades_df, n_ciudades, nuevas_dista
 
 # %%
 main_traveller(n_ciudades, input_file_path, puntos_de_corte)
-
+input("Press Enter to continue...")
 # %%
